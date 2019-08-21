@@ -52,3 +52,6 @@ TLSR8X5X module can be thought as a minimum system. It is easy to evaluate the b
 TLSR8X5X module can be thought as a minimum system. It is easy to evaluate the bom.
 
 [TLSR8X5X Mouse board](http://wiki.telink-semi.cn/doc/hw/TLSR8258_MouseBoard_TLSR8258MS32D.zip)
+
+
+![header-telink](https://i.imgur.com/7U96dR0.jpg)
