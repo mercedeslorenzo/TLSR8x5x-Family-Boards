@@ -1,4 +1,4 @@
-← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu") / [DevKits](https://telinkgithub.github.io/DevKits/ "DevKits")
+← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
 ![header-telink](https://i.imgur.com/5kRG6CF.jpg)
 
 # TLSR8x5x Family Boards
