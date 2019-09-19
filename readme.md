@@ -1,8 +1,6 @@
 ← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
 ![header-telink](https://i.imgur.com/5kRG6CF.jpg)
 
-# TLSR8x5x Family Boards
-
 Telink has designed several kinds of boards which are helpful to evaluate at the beginning of projects. After customers are familar with the boards and stock, customers can develop theirs own projects in many different field basing on the boards.
 
 ## 1. TLSR8X5X development board
