@@ -1,4 +1,5 @@
 ← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
+![header-telink](https://i.imgur.com/5kRG6CF.jpg)
 
 Telink has designed several kinds of boards which are helpful to evaluate at the beginning of projects. After customers are familar with the boards and stock, customers can develop theirs own projects in many different field basing on the boards.
 
@@ -51,7 +52,7 @@ TLSR8X5X Mouse board is a demo for Mouse application. TLSR8X5X is a ultra-low po
 [TLSR8X5X Mouse board](https://telinkgithub.github.io/Assets/05_Hardware-TLSR8x5x-Family-Boards/TLSR8258_MouseBoard_TLSR8258MS32D.zip)
 
 
-← [View the Project on GitHub](https://github.com/TelinkGithub/item-2 "Menu")
+← [View the Project on GitHub](https://github.com/TelinkGithub/TLSR8x5x-Family-Boards)
 
 
 ![footer-telink](https://telinkgithub.github.io/Assets/General/footer.jpg)
