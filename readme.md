@@ -1,5 +1,4 @@
 ← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
-![header-telink](https://telinkgithub.github.io/Assets/General/big-header.jpg)
 
 Telink has designed several kinds of boards which are helpful to evaluate at the beginning of projects. After customers are familar with the boards and stock, customers can develop theirs own projects in many different field basing on the boards.
 
